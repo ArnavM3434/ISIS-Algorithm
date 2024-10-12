@@ -1,0 +1,9 @@
+8
+node1 sp24-cs425-0601.cs.illinois.edu 1234
+node2 sp24-cs425-0602.cs.illinois.edu 1234
+node3 sp24-cs425-0603.cs.illinois.edu 1234
+node4 sp24-cs425-0604.cs.illinois.edu 1234
+node5 sp24-cs425-0605.cs.illinois.edu 1234
+node6 sp24-cs425-0606.cs.illinois.edu 1234
+node7 sp24-cs425-0607.cs.illinois.edu 1234
+node8 sp24-cs425-0608.cs.illinois.edu 1234
